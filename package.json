@@ -1,0 +1,15 @@
+{
+  "name": "check-eth-deposit",
+  "version": "1.0.0",
+  "description": "Checks new Ethereum deposit after a specified Tx Hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oyetunji Ibrahim Abiodun",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.20.0",
+    "util": "^0.12.3"
+  }
+}
